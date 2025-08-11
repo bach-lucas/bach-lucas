@@ -1,43 +1,16 @@
-# Olá, eu sou o Lucas Unzer 👋
-
-🚀 **Frontend Dev apaixonado por JavaScript e TypeScript**
-
-Olá! Eu sou o Lucas — um desenvolvedor frontend que transforma **código moderno** em **ui’s bonitas e funcionais**. Aqui no meu GitHub, você encontra alguns dos meus projetos favoritos, incluindo um portfólio e o MovieFlix, inspirado pelo JS Mastery.
+### Olá, sou o Lucas Unzer 👋  
+Desenvolvedor frontend e entusiasta em JavaScript e tecnologias web!
 
 ---
 
-##  Projetos em destaque
-
-### [lucas-port](https://github.com/bach-lucas/lucas-port)
-Meu portfólio pessoal, construído com (adicione tecnologias como React, Vite, CSS Modules etc.). Ideal para mostrar minhas skills e projetos em um layout clean, responsivo e interativo.
-
-### [MovieFlix](https://github.com/bach-lucas/MovieFlix)
-Clone do Netflix criado com (por exemplo, React, Tailwind CSS). Um projeto prático que me ajudou a aprender a consumir APIs e melhorar minha lógica de componentes.
+###  Tecnologias que curto  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="TypeScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="JavaScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="JavaScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="JavaScript" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="JavaScript" width="32"/> 
+<!-- Adicione outras badges como React, CSS, etc. -->
 
 ---
 
-##  Tecnologias que eu curto usar
+###  Como me encontrar  
+<a href="https://www.linkedin.com/in/lucas-unzer" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/lucas_unzer/" rel="nofollow"><img  src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 
-- **Linguagens**: JavaScript, TypeScript  
-- **Frameworks/Bibliotecas**: React, (adicione outras, como Next.js, Vue etc.)
-- **Ferramentas**: Git, npm/yarn, Vite, ESLint, Prettier  
-- **Estilo**: Tailwind CSS, CSS Modules, (outros frameworks ou metodologias que você use)
-
----
-
-##  Como me encontrar
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lucas-unzer)  
-- 📸 [Instagram](https://www.instagram.com/lucas_unzer)
-
----
-
-##  Como usar este repositório
-
-Se quiser testar meus projetos localmente:
-
-```bash
-git clone https://github.com/bach-lucas/<nome-do-repo>.git
-cd <nome-do-repo>
-npm install
-npm start
+Obrigado por dar uma olhada! Se quiser conversar ou colaborar, é só me chamar.  
