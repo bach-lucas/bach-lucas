@@ -87,11 +87,11 @@
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
+| [Connect Executive Hub](https://connectexecutivehub.com.br/) | Site principal da Connect Executive Hub, rede de executivos onde atuo como desenvolvedor · 🔒 código privado da empresa | TypeScript, React |
+| [As Conexões Movem o Mundo](https://connect-legay.lovable.app/) | Landing page bilíngue do projeto editorial da Connect, que convida membros a serem coautores do livro · 🔒 código privado da empresa | TypeScript, React |
 | [Portfólio](https://github.com/bach-lucas/portf-lio) | Meu portfólio pessoal · [ver online](https://portfolio-lucasbachs-projects.vercel.app) | TypeScript |
-| [EluanyPersonalTreiner](https://github.com/bach-lucas/EluanyPersonalTreiner) | Site feito sob demanda para uma personal trainer, com animações | React, GSAP |
 | [warchaos-clans](https://github.com/bach-lucas/warchaos-clans) | Projeto web publicado na Vercel · [ver online](https://warchaos-clans.vercel.app) | TypeScript |
 | [torcida-digital-store](https://github.com/bach-lucas/torcida-digital-store) | Loja virtual demonstrativa de artigos de festa para assistir aos jogos do Brasil | HTML, CSS |
-| [clientes-crud-laravel](https://github.com/bach-lucas/clientes-crud-laravel) | CRUD de clientes com Laravel | PHP, Laravel |
 | [MovieFlix](https://github.com/bach-lucas/MovieFlix) | App de filmes desenvolvido com base no curso do JS Mastery | TypeScript, React |
 
 ---
