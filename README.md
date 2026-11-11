@@ -65,8 +65,8 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bach-lucas&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bach-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=bach-lucas&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="estatísticas" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=bach-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens" />
 </p>
 
 <p align="center">
@@ -74,11 +74,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bach-lucas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="troféus" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=bach-lucas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="troféus" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bach-lucas&theme=tokyo-night&hide_border=true&area=true" alt="gráfico de atividade" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bach-lucas&theme=tokyonight" alt="gráfico de atividade" />
 </p>
 
 ---
